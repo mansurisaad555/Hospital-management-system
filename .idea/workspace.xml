@@ -7,6 +7,9 @@
     <list default="true" id="7a7c9f55-bd33-424c-b899-7d44f13c585d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/hospital/management/system/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hospital/management/system/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hospital/management/system/NEW_PATIENT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hospital/management/system/NEW_PATIENT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hospital/management/system/Reception.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hospital/management/system/Reception.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hospital/management/system/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hospital/management/system/Room.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +38,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Login.executor": "Run",
+    "Application.Reception.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -121,6 +125,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Login" />
+        <item itemvalue="Application.Reception" />
         <item itemvalue="Application.Ambulance" />
         <item itemvalue="Application.Room" />
       </list>
