@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7a7c9f55-bd33-424c-b899-7d44f13c585d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hospital/management/system/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hospital/management/system/Login.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,12 +39,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Saiyedshabana2/Downloads/rs2xml.jar",
+    "last_opened_file_path": "C:/Users/Saiyedshabana2/Documents/Hospital management system",
     "onboarding.tips.debug.path": "F:/project/Hospital management system/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "advanced.settings"
+    "settings.editor.selected.configurable": "project.propCompiler"
   }
 }]]></component>
   <component name="RecentsManager">
